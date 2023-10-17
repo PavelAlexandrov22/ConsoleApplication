@@ -8,7 +8,7 @@ import jakarta.servlet.http.HttpServletResponse;
 
 import java.io.IOException;
 import java.io.PrintWriter;
-// servlet specific class
+
 public class HelloWorldServlets extends HttpServlet {
 
     @Override
